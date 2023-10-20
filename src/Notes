@@ -1,0 +1,7 @@
+spring.jpa.hibernate.ddl-auto => create, update and verify
+create -> everytime we start the application, all the tables are dropped and created again. Loss of data.
+update -> everytime we start the application, it only runs the updated changes. No table drop, hence no loss of data.
+verify -> 3rd party tools to create the tables, verifies if the tables and structures the models or not.
+
+
+
