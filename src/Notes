@@ -10,3 +10,8 @@ Repository Demo
 Optional
 
 
+A -> 1 - 10 -> T1 -> Serializable
+B -> 8 - 9 -> booking -> initiate save X
+
+1. Insert Data
+2. Create API -> booking : List<ShowSeatIds>, userId,
